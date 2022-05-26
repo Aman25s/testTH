@@ -1,7 +1,7 @@
 **
  * Determine if a value is a Stream
  *
- * @param {Object} val The value to test
+ * @param {Object} val The value to test some change
  * @returns {boolean} True if value is a Stream, otherwise false
  */
 function isStream(val) {
